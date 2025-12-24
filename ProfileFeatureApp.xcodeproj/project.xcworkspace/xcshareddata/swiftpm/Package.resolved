@@ -1,0 +1,24 @@
+{
+  "originHash" : "9da95154c6e53a7f64e8c616e5f7d1589b3d3ee802cc572a52d1ec5ce085a99a",
+  "pins" : [
+    {
+      "identity" : "designsystem",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/chinthaka01/DesignSystem.git",
+      "state" : {
+        "revision" : "0824665d0a45f3e559b5b933c2ba2479ef96f88a",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "platformkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/chinthaka01/PlatformKit.git",
+      "state" : {
+        "revision" : "46e8b8e1dbdcc7cd4c8f6766bc4f4ccb6be19845",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
